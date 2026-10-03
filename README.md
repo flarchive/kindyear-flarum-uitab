@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of kindyear/flarum-uitab.** Not for installation: use [Packagist](https://packagist.org/packages/kindyear/flarum-uitab) or the [upstream repository](https://github.com/kindyear/flarum-uitab).
 
-**0** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/kindyear-flarum-uitab/tree/archive/v1.0.1) · License: `MIT` · Flarum: `>=0.1.0-beta.16`
+**15** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/kindyear-flarum-uitab/tree/archive/v1.0.1) · License: `MIT` · Flarum: `>=0.1.0-beta.16`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.3.0` | 2021-01-10 | `>=0.1.0-beta.15 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/kindyear-flarum-uitab/tree/archive/v0.3.0) |
+| `v0.1.1` | 2020-02-24 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/kindyear-flarum-uitab/tree/archive/v0.1.1) |
+| `v0.1.2` | 2020-02-24 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/kindyear-flarum-uitab/tree/archive/v0.1.2) |
+| `v0.1.3` | 2020-02-24 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/kindyear-flarum-uitab/tree/archive/v0.1.3) |
+| `v0.1.4` | 2020-02-24 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/kindyear-flarum-uitab/tree/archive/v0.1.4) |
+| `v0.1.5` | 2020-02-26 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/kindyear-flarum-uitab/tree/archive/v0.1.5) |
+| `v0.1.6` | 2020-02-29 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/kindyear-flarum-uitab/tree/archive/v0.1.6) |
+| `v0.1.7` | 2020-05-14 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/kindyear-flarum-uitab/tree/archive/v0.1.7) |
+| `v0.1.8` | 2020-05-14 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/kindyear-flarum-uitab/tree/archive/v0.1.8) |
+| `v0.2.0` | 2020-05-16 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/kindyear-flarum-uitab/tree/archive/v0.2.0) |
+
+[View all 15 versions](https://github.com/flarchive/kindyear-flarum-uitab/tags)
 
 Catalog entry: [packages/kindyear-flarum-uitab.json](https://github.com/flarchive/archive-index/blob/main/packages/kindyear-flarum-uitab.json)
 
